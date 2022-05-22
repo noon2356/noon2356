@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**noon2356/noon2356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github page 😎
 
-Here are some ideas to get you started:
+I'm a student and am very interested in development 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Even though it is very lacking, I always want to learn 😄
+
+# Frequently used language 📕
+![Python](https://img.shields.io/badge/Python-3ba4dd?style=for-the-badge&logo=python&logoColor=015)
+
+# Interested in 📌
+- **🔭 Science**: I have been very interested in exploring and researching something, and I am constantly learning about it.
+
+- **💻 Programming**: Imagining, envisioning, and systematically creating something with my own hands made it very interesting and I keep doing it. 
